@@ -1,0 +1,1 @@
+mySPI.d: ../mySPI.c
